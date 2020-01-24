@@ -1,0 +1,12 @@
+hr{
+    margin: 3%;
+}
+
+.card{
+    width: 20%;
+    margin: 2%;
+    padding: 1% 0;
+    background-color:tan;
+    border:1px solid sandybrown;
+    border-radius:12px;
+}
